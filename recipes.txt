@@ -1,3 +1,6 @@
 welcome to git
  kheer
  pasta
+  beans
+  pizza
+  
